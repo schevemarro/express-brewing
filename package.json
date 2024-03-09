@@ -1,0 +1,27 @@
+{
+  "name": "express-brewing",
+  "version": "1.0.0",
+  "description": "Total sum, express calculator for kids beta testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "express-brewing": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schevemarro/express-brewing.git"
+  },
+  "homepage": "https://github.com/schevemarro/express-brewing/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "schevemarro",
+  "license": "MIT"
+}
